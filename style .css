@@ -1,0 +1,24 @@
+
+body{
+    background-color: rgb(62, 125, 106);
+}
+.table{
+    text-align: center;
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    border: 2px solid white;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+.multiplChamp{
+    padding: 20px 0;
+}
+
+button{
+    display: inline;
+}
+
+.pElement{
+    text-align: center;
+}
